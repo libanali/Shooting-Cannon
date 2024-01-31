@@ -1,2 +1,2 @@
 # Shooting-Cannon
-Shooting Cannon Name
+Shooting Cannon Game
